@@ -1,0 +1,158 @@
+body{
+ 	background-color: pink;
+}
+
+.family{
+  margin-top: 100px;
+  vertical-align: bottom;
+  text-align: center;
+}
+
+.mum{
+  display: inline-block;
+}
+
+div.mum div{
+  width: 70px;
+}
+
+div.mum .hair{
+  background-color: #0505c6;
+  height: 175px;
+}
+
+div.mum .head{
+  background-color: yellow;
+  height: 70px;
+}
+
+div.mum .body{
+  background-color: #34ef66;
+  height: 145px;
+}
+
+div.mum .legs{
+  background-color: yellow;
+  height: 35px;
+}
+
+div.mum .feet{
+  background-color: #ff8d00;
+  height: 35px;
+}
+
+.dad{
+  display: inline-block;
+  margin-left: 60px;
+}
+
+div.dad div{
+  width: 120px;
+}
+
+div.dad .hair{
+  background-color: yellow;
+  height: 70px;
+}
+
+div.dad .head{
+  background-color: #c4a45a ;
+  height: 30px;
+}
+
+div.dad .body{
+  background-color: white;
+  height: 110px;
+}
+
+div.dad .legs{
+  background-color: #0505c6;
+  height: 110px;
+}
+
+div.dad .feet{
+  background-color: #5f5d66;
+  height: 35px;
+}
+
+.son{
+  display: inline-block;
+  margin-left: 60px;
+}
+
+div.son div{
+  width: 70px;
+}
+
+div.son .hair{
+  background-color: yellow;
+  height: 70px;
+}
+
+div.son .head{
+  background-color: #f7b736  ;
+  height: 30px;
+}
+
+div.son .body{
+  background-color: #0505c6;
+  height: 30px;
+}
+
+div.son .legs{
+  background-color: yellow;
+  height: 30px;
+}
+
+div.son .feet{
+  background-color: #0505c6;
+  height: 35px;
+}
+
+.daughter{
+  display: inline-block;
+  margin-left: 60px;
+}
+
+div.daughter div{
+  width: 70px;
+}
+
+div.daughter .head{
+  background-color: yellow;
+  height: 70px;
+}
+
+div.daughter .body{
+  background-color: #ff8d00;
+  height: 60px;
+}
+
+div.daughter .legs{
+  background-color: yellow;
+  height: 30px;
+}
+
+div.daughter .feet{
+  background-color: #ff8d00;
+  height: 35px;
+}
+
+.baby{
+  display: inline-block;
+  margin-left: 60px;
+}
+
+div.baby div{
+  width: 70px;
+}
+
+div.baby .head{
+  background-color: yellow;
+  height: 60px;
+}
+
+div.baby .body{
+  background-color: #69a8e0;
+  height: 60px;
+}
